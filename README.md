@@ -91,6 +91,6 @@ https://work.caltech.edu/homework/final.pdf
 * Implemented K Means clustering algorithm from scratch
 
 * Used Regular Radial Basis Functions in combination with kmeans for
-  classification, and compared the resutls with SVM with RBF kernel.
+  classification, and compared the results with SVM with RBF kernel.
 
 ![](img/9rbf.png)
